@@ -1,4 +1,4 @@
-### Olá 👋 , me chamo Ricardo!
+### Olá 👋, me chamo Ricardo e tenho 18 anos e estou cursando Sistemas de Informação na UNINOVE me dedicando constantemente ao aprendizado de programação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-p-1651b7237/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2PVPFMwEeH8aGZHysSVcDg)
@@ -14,4 +14,8 @@
 <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div> <br/>
 
-Olá, me chamo Ricardo e tenho 18 anos e estou cursando Sistemas de Informação na UNINOVE me dedicando constantemente ao aprendizado de programação.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
