@@ -1,4 +1,11 @@
-# 👩🏻‍💻 Ricardo Pereira
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000FF&text=Rick's%20profile&reversal=false&textBg=false&fontSize=50&animation=fadeIn" alt="Rick's profile header" width="100%"/>
+</div>
+
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+profile" alt="Typing SVG"/>
+</div>
 
 - 🔭 Atualmente trabalho com sistemas
 - 🌱 HTML e CSS
@@ -29,6 +36,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<div align="right">
+  <img src="https://i.imgur.com/ElU3F9h.gif" width="200px" alt="gif animado">
+</div>
 
 <br/>
 <br/>
