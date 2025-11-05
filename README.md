@@ -59,7 +59,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ickk&theme=shadow_red&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ickk&theme=shadow_red&layout=compact&custom_title=Tecnologias&langs_count=9
 " 
   />
 
