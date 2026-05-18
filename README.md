@@ -1,74 +1,35 @@
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF0000FF&text=Rick's%20profile&reversal=false&textBg=false&fontSize=50&animation=fadeIn" 
-    alt="Rick's profile header" 
-    width="100%"
-  />
-</div>
+### Desenvolvedor Front-end | Analista de Sistemas
 
-<div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+profile" 
-    alt="Typing SVG"
-  />
 </div>
 
 ---
 
-- 🔭 Atualmente trabalho com sistemas  
-- 🌱 HTML e CSS  
+## O que eu faço
+
+- 🖥️ Trabalho com **análise e suporte a sistemas**
+- 🎨 Desenvolvo interfaces com **HTML, CSS e JavaScript**
+- 📚 Estudando desenvolvimento web do zero ao avançado
+- 🐍 Explorando **Python** e **SQL** no tempo livre
 
 ---
 
-### 🤖 Tecnologias que mais uso
+## Stack
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div align="left">
 
-<div align="right">
-  <img src="https://i.imgur.com/ElU3F9h.gif" width="200px" alt="gif animado">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
-<br clear="left"/>
-<br/>
-
 ---
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake.svg"
-  >
-  <img 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake.svg"
-  >
-</picture>
+## Projetos em destaque
 
-<br><br>
+| Projeto | O que é |
+|---|---|
+| [`UDEMY`](https://github.com/r1ickk/Udemy) | Curso de Front-end pela UDEMY |
+| [`Descobrindo-o-mundo-tech`](https://github.com/r1ickk/Descobrindo-o-mundo-tech) | Trilha de estudos Ada Tech |
+| [`Python-DevSamurai`](https://github.com/r1ickk/Python-DevSamurai) | Curso de Python básico |
