@@ -1,4 +1,4 @@
-### Desenvolvedor Front-end | Analista de Sistemas
+### Desenvolvedor Front-end em formação| Área de Sistemas
 
 </div>
 
@@ -6,10 +6,9 @@
 
 ## O que eu faço
 
-- 🖥️ Trabalho com **análise e suporte a sistemas**
-- 🎨 Desenvolvo interfaces com **HTML, CSS e JavaScript**
+- 🖥️ Trabalho na parte de **SISTEMAS** utilziando o **TOTVS RM**
+- 🎨 Iniciando o desenvolvimento de interfaces com **HTML, CSS e JavaScript**
 - 📚 Estudando desenvolvimento web do zero ao avançado
-- 🐍 Explorando **Python** e **SQL** no tempo livre
 
 ---
 
@@ -20,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 </div>
 
@@ -30,6 +29,6 @@
 
 | Projeto | O que é |
 |---|---|
-| [`UDEMY`](https://github.com/r1ickk/Udemy) | Curso de Front-end pela UDEMY |
-| [`Descobrindo-o-mundo-tech`](https://github.com/r1ickk/Descobrindo-o-mundo-tech) | Trilha de estudos Ada Tech |
-| [`Python-DevSamurai`](https://github.com/r1ickk/Python-DevSamurai) | Curso de Python básico |
+| [`Login Page`](https://github.com/r1ickk/Tela-de-login) | Tela de login minimalista |
+| [`Weatherr Page`](https://github.com/r1ickk/Site-de-previs-o-do-tempo) | Página onde informa a previsão do tempo |
+| [`Clock page`](https://github.com/r1ickk/Rel-gio) | Projeto de um relógio básico |
