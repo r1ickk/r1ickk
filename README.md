@@ -1,4 +1,4 @@
-### Desenvolvedor Front-end em formação| Área de Sistemas
+### Desenvolvedor Front-end em formação | Área de Sistemas
 
 </div>
 
