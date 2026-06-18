@@ -32,3 +32,13 @@
 | [`Login Page`](https://github.com/r1ickk/Tela-de-login) | Tela de login minimalista |
 | [`Weatherr Page`](https://github.com/r1ickk/Site-de-previs-o-do-tempo) | Página onde informa a previsão do tempo |
 | [`Clock page`](https://github.com/r1ickk/Rel-gio) | Projeto de um relógio básico |
+
+---
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/r1ickk/r1ickk/output/github-contribution-grid-snake.svg">
+</picture>
